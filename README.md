@@ -1,6 +1,6 @@
 # Amazon-webscrapper
 # Overview
-This project extracts data from Amazon Website using Python, BeautifulSoup, Requests instead of using a messy process of manual copying .
+This project extracts data from Amazon Website using Python, BeautifulSoup, Requests instead of using a messy process of manual copying.
 
 # Introduction 
 Web scraping is an automated method used to extract large amounts of data from websites, converting HTML content into structured data like spreadsheets or databases.
